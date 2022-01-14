@@ -1,12 +1,1 @@
-{
-  "name": "ShiraoriBOT-Md",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": [
-    "bot",
-    "whatsapp",
-    "multi-device",
-    "whatsapp-bot"
-  ]
-}
+{"clientID":"cQ2KvAB6PeBvPoOk6ZqrIw==","serverToken":"1@A0AizhKVt6ej2xZdt9LWbMFGDppy8iCH7t8uayAETfNuHJAurO3Ef5OBTktJSMxAVdVbVNH+MBwePg==","clientToken":"qw2spFoSKwJFVCHaoWWfLIs7Wx/kHI6hhEFriSKIDg0=","encKey":"eRNJldJvHBHgWv6WdCz2MB6DFhsJdSu7Kxkitkhumkc=","macKey":"VHtRFm42mMxapk/dNjWSyX/j6g+tjmDk4ioq0Mdwpe4="}
